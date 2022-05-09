@@ -1,0 +1,18 @@
+nav a {
+    margin-right: 16px;
+}
+
+nav {
+    background-color: aliceblue;
+    padding: 16px 32px;
+}
+
+nav a.active {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.secondary-nav{
+    background-color: greenyellow;
+    padding: 16px 32px;
+}
